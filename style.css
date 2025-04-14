@@ -1,0 +1,33 @@
+#title {
+    color: maroon; 
+    font-family: 'Georgia', serif;
+    text-decoration: underline;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.description {
+    color: brown;
+    font-family: 'Arial', sans-serif; 
+    padding: 5px;
+    font-style: italic;
+}
+
+.featured-image {
+    width: 100%; 
+    height: auto;
+    margin: 20px 0;
+    border: 5px solid white; 
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.container {
+    margin: 50px auto;
+    max-width: 800px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: plum;
+}
